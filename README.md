@@ -1,6 +1,6 @@
-# Best Leetcode Resources
+# Best Leetcode Resources (PENDING RELEASE)
 
-(PENDING RELEASE) The best leetcode and system design interview prep resources available. Will be updated reguarly
+##Leetcode Patterns
 
 ## Leetcode Interview Problems
 
