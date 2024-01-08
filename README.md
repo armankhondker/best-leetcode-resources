@@ -1,6 +1,6 @@
 # Best Leetcode Resources (PENDING RELEASE)
 
-##Leetcode Patterns
+## Leetcode Patterns
 
 ## Leetcode Interview Problems
 
