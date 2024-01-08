@@ -2,7 +2,12 @@
 
 This repository contains Leetcode resources to ace your interviews and learn Leetcode Patterns.
 
+## Foundational Knowledge 
+
 ## Leetcode Patterns
 
-## Leetcode Interview Problems
+## Problem-solving Roadmap 
 
+## Recommended Reading
+
+## Must-do Problems
