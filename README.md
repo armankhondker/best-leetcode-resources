@@ -1,4 +1,4 @@
-# Best Leetcode Resources (Pending Full Release, will be updated reguarly)
+# Best Leetcode Resources (Pending full release)
 
 This repository contains Leetcode resources to ace your interviews and learn Leetcode Patterns.
 
