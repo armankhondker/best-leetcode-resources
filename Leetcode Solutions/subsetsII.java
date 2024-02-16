@@ -15,8 +15,6 @@ Output:
   []
 ]
 
-
-
 class Solution {
  public List<List<Integer>> subsetsWithDup(int[] nums) {
     List<List<Integer>> list = new ArrayList<>();

@@ -5,15 +5,12 @@ Example:
 Input: nums = [3,5,2,1,6,4]
 Output: One possible answer is [3,5,1,6,2,4]
 
-
-
 The rule is:
 
 		If i is even, nums[i] <= nums[i+1]
 		If i is odd, nums[i] >= nums[i+1]
 
 Traverse the array, and fix the ordering by swapping unmatched pairs.
-
 
 //TC: O(N)
 //SC: O(1)
