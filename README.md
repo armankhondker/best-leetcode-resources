@@ -43,7 +43,7 @@ This repository contains LeetCode resources to ace your coding interviews.
 
 ## Courses
 - [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- [Coursera Meta Coding Interview Prep](https://www.coursera.org/learn/coding-interview-preparation)
+- [Meta Coding Interview Prep Course](https://www.coursera.org/learn/coding-interview-preparation)
 
 ## Mock Interviewing
 - [Pramp](https://www.pramp.com/#/)
