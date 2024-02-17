@@ -2,7 +2,22 @@
 
 This repository contains LeetCode resources to ace your interviews and learn LeetCode Patterns.
 
-## Foundational Knowledge 
+## Background Knowledge 
+
+- [Arrays]()
+- [LinkedIn List]()
+- [HashMaps]()
+- [Recursion]()
+- [Sorting]()
+- [Binary Search]()
+- [Trees]()
+- [Backtracking]()
+- [Heaps]()
+- [Graphs]()
+- [Dynaymic Programming]()
+- [BFS]()
+- [DFS]()
+- [Bit Manipulation]()
 
 ## Leetcode Patterns
 
