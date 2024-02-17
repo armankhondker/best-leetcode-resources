@@ -3,9 +3,7 @@
 This repository contains LeetCode resources to ace your coding interviews and learn all LeetCode Patterns. 
 
 ## Background Knowledge 
-
-- [Arrays]()
-- [LinkedIn List]()
+- [Linked List]()
 - [Hash Tables]()
 - [Recursion]()
 - [Sorting]()
@@ -13,19 +11,46 @@ This repository contains LeetCode resources to ace your coding interviews and le
 - [Stacks]()
 - [Queues]()
 - [Trees]()
-- [Backtracking]()
+- [Trees]()
+
+- [Backtracking](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
 - [Heaps]()
 - [Graph Theory]()
-- [Dynaymic Programming]()
+- [Dynaymic Programming](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+- [Bit Manipulation]()
 - [Breadth First Search]()
 - [Depth First Search]()
-- [Bit Manipulation]()
 
 ## Leetcode Patterns
+- [14 Coding Interview Patterns](https://www.teamblind.com/blog/top-leetcode-patterns-coding-interview-questions/)
+- [Sliding Window]()
+- [Two Pointers]()
+- [Fast & Slow Pointers]()
+- [Merge Intervals]()
+- [Cyclic Sort]()
+- [Reverse Linked List]()
+- [Heaps]()
+- [Two Heaps]()
+- [Subsets]()
+- [Modified Binary Search]()
+- [Top K Elements]()
+- [K-way merge]()
+- [Topological Sort]()
 
 ## Problem-solving Roadmap 
 
-## Recommended Reading
+## Books
+- [Elements of programming o]()
+- [Hash Tables]()
+
+## Courses
+- [Hash Tables]()
+- [Hash Tables]()
+
+## Mock Interviews
+- [Pramo]()
+- [Hash Tables]()
+
 
 ## Must-do Problems
 
