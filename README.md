@@ -1,5 +1,4 @@
 # Best Leetcode Resources
-
 This repository contains LeetCode resources to ace your coding interviews and learn all LeetCode Patterns. 
 
 ## Fundamental Knowledge 
@@ -12,7 +11,6 @@ This repository contains LeetCode resources to ace your coding interviews and le
 - [Queues]()
 - [Trees]()
 - [Trees]()
-
 - [Backtracking](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
 - [Heaps]()
 - [Graph Theory]()
