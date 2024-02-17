@@ -1,6 +1,6 @@
-# Best Leetcode Resources (Pending full release)
+# Best Leetcode Resources
 
-This repository contains Leetcode resources to ace your interviews and learn Leetcode Patterns.
+This repository contains LeetCode resources to ace your interviews and learn LeetCode Patterns.
 
 ## Foundational Knowledge 
 
