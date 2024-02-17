@@ -58,6 +58,7 @@ This repository contains LeetCode resources to ace your coding interviews.
 
 ### Graphs
 - [Redundant Connection](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
 - [Number of connected components in an undirected graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
 - [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/?envType=list&envId=xler60c5)
