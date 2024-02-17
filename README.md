@@ -56,7 +56,27 @@ This repository contains LeetCode resources to ace your coding interviews.
 
 ## Must-do Problems
 
-Graphs
+### Graphs
+- [Redundant Connection](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
+- [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+- [Number of connected components in an undirected graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
+- [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/?envType=list&envId=xler60c5)
+- [Pacific Atlantic Waterflow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=list&envId=xler60c5)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=list&envId=xler60c5)
+- [Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=list&envId=xler60c5)
+- [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 
+### Binary Trees
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
+- [K-way merge]()
 
 Your open-source contributions are appreciated!
