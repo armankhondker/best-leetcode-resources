@@ -38,8 +38,8 @@ This repository contains LeetCode resources to ace your coding interviews.
 ## Roadmap
 
 ## Books
-- [Competitive Programmer's Handbook](https://github.com/Avinash987/Coding/blob/master/CodingBook.pdf)
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [Competitive Programmer's Handbook](https://github.com/Avinash987/Coding/blob/master/CodingBook.pdf)
 - [Cracking the Coding Interview](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 
 ## Courses
