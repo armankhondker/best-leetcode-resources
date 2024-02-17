@@ -69,15 +69,18 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 
 ### Binary Trees
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
-- [K-way merge]()
+- [K-way merge](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
+- [K-way merge](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [K-way merge](https://leetcode.com/problems/invert-binary-tree/)
+- [K-way merge](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+- [K-way merge](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+- [K-way merge](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+- [K-way merge](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+- [K-way merge](https://leetcode.com/problems/path-sum/description/?envType=list&envId=xlemouqi)
+- [K-way merge](https://leetcode.com/problems/path-sum-ii/description/?envType=list&envId=xlemouqi)
+- [K-way merge](https://leetcode.com/problems/merge-two-binary-trees/description/?envType=list&envId=xlemouqi)
+- [K-way merge](https://leetcode.com/problems/word-search/)
+- [K-way merge](https://leetcode.com/problems/word-search-ii/)
+- [K-way merge](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 Your open-source contributions are appreciated!
