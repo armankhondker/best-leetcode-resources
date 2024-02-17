@@ -1,6 +1,6 @@
 # Best Leetcode Resources
 
-This repository contains LeetCode resources to ace your coding interviews and learn LeetCode Patterns with spaced repetition. 
+This repository contains LeetCode resources to ace your coding interviews and learn all LeetCode Patterns. 
 
 ## Background Knowledge 
 
