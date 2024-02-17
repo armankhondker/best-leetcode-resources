@@ -45,10 +45,13 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Hash Tables]()
 - [Hash Tables]()
 
-## Mock Interviews
-- [Pramo]()
-- [Hash Tables]()
+## Mock Interviewing
+- [Pramp](https://www.pramp.com/#/)
+- [Interviewing.io](https://interviewing.io/)
 
+## Offer Negotiations
+- [Negotiation 101](https://www.tryexponent.com/blog/tech-salary-negotiation-guide)
+- [Big Tech Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
 
 ## Must-do Problems
 
