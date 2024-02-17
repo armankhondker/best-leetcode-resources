@@ -59,4 +59,4 @@ This repository contains LeetCode resources to ace your coding interviews.
 Graphs
 
 
-Your open-source contributions are much appreciated!
+Your open-source contributions are appreciated!
