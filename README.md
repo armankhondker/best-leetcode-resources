@@ -42,8 +42,8 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Hash Tables]()
 
 ## Courses
-- [Hash Tables]()
-- [Hash Tables]()
+- [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- [Coursera Meta Coding Interview Prep](https://www.coursera.org/learn/coding-interview-preparation)
 
 ## Mock Interviewing
 - [Pramp](https://www.pramp.com/#/)
