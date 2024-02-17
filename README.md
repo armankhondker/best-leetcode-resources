@@ -2,7 +2,7 @@
 
 This repository contains LeetCode resources to ace your coding interviews and learn all LeetCode Patterns. 
 
-## Background Knowledge 
+## Fundamental Knowledge 
 - [Linked List]()
 - [Hash Tables]()
 - [Recursion]()
@@ -21,7 +21,7 @@ This repository contains LeetCode resources to ace your coding interviews and le
 - [Breadth First Search]()
 - [Depth First Search]()
 
-## Leetcode Patterns
+## Patterns
 - [14 Coding Interview Patterns](https://www.teamblind.com/blog/top-leetcode-patterns-coding-interview-questions/)
 - [Sliding Window]()
 - [Two Pointers]()
