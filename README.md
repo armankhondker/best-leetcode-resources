@@ -6,17 +6,19 @@ This repository contains LeetCode resources to ace your interviews and learn Lee
 
 - [Arrays]()
 - [LinkedIn List]()
-- [HashMaps]()
+- [Hash Tables]()
 - [Recursion]()
 - [Sorting]()
 - [Binary Search]()
+- [Stacks]()
+- [Queues]()
 - [Trees]()
 - [Backtracking]()
 - [Heaps]()
-- [Graphs]()
+- [Graph Theory]()
 - [Dynaymic Programming]()
-- [BFS]()
-- [DFS]()
+- [Breadth First Search]()
+- [Depth First Search]()
 - [Bit Manipulation]()
 
 ## Leetcode Patterns
