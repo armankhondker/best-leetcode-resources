@@ -1,7 +1,7 @@
 # Best Leetcode Resources
 This repository contains LeetCode resources to ace your coding interviews and learn all LeetCode Patterns. 
 
-## Fundamental Knowledge 
+## Key Topics 
 - [Linked List]()
 - [Hash Tables]()
 - [Recursion]()
@@ -35,7 +35,7 @@ This repository contains LeetCode resources to ace your coding interviews and le
 - [K-way merge]()
 - [Topological Sort]()
 
-## Problem-solving Roadmap 
+## Roadmap
 
 ## Books
 - [Elements of programming o]()
