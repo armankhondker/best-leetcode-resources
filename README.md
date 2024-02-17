@@ -56,5 +56,7 @@ This repository contains LeetCode resources to ace your coding interviews.
 
 ## Must-do Problems
 
+Graphs
 
-Your contributions are much appreciated!
+
+Your open-source contributions are much appreciated!
