@@ -34,6 +34,8 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [BFS Pattern](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2007%3A%20Tree%20Breadth%20First%20Search.md) 
 - [Topological Sort](https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688)
 
+### [Leetcode Spaced-Repititon Template](https://docs.google.com/spreadsheets/...) 
+
 ## Famous Problem Sets
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Neetcode 150](https://neetcode.io/practice)
