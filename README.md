@@ -2,7 +2,7 @@
 This repository contains LeetCode resources to ace your coding interviews.
 
 ## Fundamental Knowledge 
-- [Hash Tables](https://www.interviewcake.com/concept/java/hash-map)
+- [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/Become-Master-In-Linked-List)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/Become-Master-In-Recursion)
 - [Sorting](https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add)
