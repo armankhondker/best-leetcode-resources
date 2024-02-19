@@ -50,6 +50,7 @@ This repository contains LeetCode resources to ace your coding interviews.
 ## Mock Interviewing
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
+- [Meetapro](https://www.meetapro.com/) 
 
 ## Must-do Problems
 
