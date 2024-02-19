@@ -39,6 +39,7 @@ This repository contains LeetCode resources to ace your coding interviews.
 ## Famous Problem Sets
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Neetcode 150](https://neetcode.io/practice)
+- [Sean Prashad's Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) 
 - [Leetcode Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
 
 ## Books
