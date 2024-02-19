@@ -13,10 +13,10 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Tries](https://leetcode.com/discuss/general-discussion/931977/beginner-friendly-guide-to-trie-tutorial-practice-problems)
 - [Backtracking](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
 - [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
+- [Breadth First Search](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)
+- [Depth First Search](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 - [Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [Dynaymic Programming](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
-- [BFS](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)
-- [DFS](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 
 ### [Leetcode Spaced-Repetition Template](https://docs.google.com/spreadsheets/d/1qcVCZ3VrBa2p0Tlzad0kEdG94carfZly5z81VLdz2w4/edit#gid=0) 
 
