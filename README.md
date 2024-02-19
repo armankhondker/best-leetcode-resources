@@ -93,4 +93,4 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Reverse nodes in K group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=list&envId=xler4hke)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 
-Your open-source contributions are appreciated!
+Your open-source contributions are appreciated! Resources will be updated regularly. 
