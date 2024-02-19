@@ -18,6 +18,8 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Breadth First Search](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9)
 - [Depth First Search](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 
+### [Leetcode Spaced-Repetition Template](https://docs.google.com/spreadsheets/d/1qcVCZ3VrBa2p0Tlzad0kEdG94carfZly5z81VLdz2w4/edit#gid=0) 
+
 ## Patterns
 - [14 Coding Interview Patterns](https://www.teamblind.com/blog/top-leetcode-patterns-coding-interview-questions/)
 - [Sliding Window](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
@@ -53,8 +55,6 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
 - [Meetapro](https://www.meetapro.com/)
-
-### [Leetcode Spaced-Repetition Template](https://docs.google.com/spreadsheets/d/1qcVCZ3VrBa2p0Tlzad0kEdG94carfZly5z81VLdz2w4/edit#gid=0) 
 
 ## Must-do Problems
 
