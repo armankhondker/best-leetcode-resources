@@ -1,7 +1,7 @@
 # Best Leetcode Resources
 This repository contains LeetCode resources to ace your coding interviews.
 
-## Fundamental Knowledge 
+## Data structures and Algorithms Knowledge 
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Linked List](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/Become-Master-In-Recursion)
