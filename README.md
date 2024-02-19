@@ -51,10 +51,6 @@ This repository contains LeetCode resources to ace your coding interviews.
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
 
-## Offer Negotiation
-- [Negotiation 101](https://www.tryexponent.com/blog/tech-salary-negotiation-guide)
-- [Big Tech Negotation](https://www.levels.fyi/blog/google-salary-negotiation.html)
-
 ## Must-do Problems
 
 ### Graphs
