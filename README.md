@@ -1,4 +1,4 @@
-# Best Leetcode Resources!
+# Best Leetcode Resources
 This repository contains the best LeetCode resources to ace your coding interviews.
 
 ## Fundamental Concepts 
