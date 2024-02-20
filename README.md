@@ -88,14 +88,5 @@ This repository contains the best LeetCode resources to ace your coding intervie
 - [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
-### Linked Lists
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=list&envId=xler4hke)
-- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=list&envId=xler4hke)
-- [Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=list&envId=xler4hke)
-- [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/?envType=list&envId=xler4hke)
-- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/?envType=list&envId=xler4hke)
-- [Reverse nodes in K group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=list&envId=xler4hke)
-- [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
-
 Your open-source contributions are appreciated!
 
