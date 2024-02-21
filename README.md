@@ -1,5 +1,5 @@
 # Best Leetcode Resources
-This repository contains the best LeetCode resources to ace your coding interviews.
+This repository contains the best free LeetCode resources to ace your coding interviews.
 
 ## Fundamental Concepts 
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
