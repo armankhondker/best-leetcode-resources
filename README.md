@@ -58,7 +58,7 @@ This repository contains the best free LeetCode resources for interview prep.
 - [Interviewing.io](https://interviewing.io/)
 - [Meetapro](https://www.meetapro.com/)
 
-### [Resume Template](https://www.overleaf.com/project/627224a4c2dc8e6361a77250)
+### [Resume Template](https://www.overleaf.com/read/gzgzrpszyzyg)
 
 ## Must-do Problems
 
