@@ -1,5 +1,5 @@
 # Best Leetcode Resources
-This repository contains free LeetCode resources for interview prep. 
+This repository contains the best free LeetCode resources for interview prep. 
 
 ## Fundamental Concepts 
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
