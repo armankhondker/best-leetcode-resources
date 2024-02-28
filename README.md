@@ -33,9 +33,11 @@ This repository contains the best free LeetCode resources for interview prep.
 - [Modified Binary Search](https://leetcode.com/discuss/general-discussion/691825/Binary-Search-for-Beginners-Problems-or-Patterns-or-Sample-solutions)
 - [Top K Elements](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20Pattern%2013:%20Top%20'K'%20Elements.md)
 - [K-way merge](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20Pattern%2014%3A%20K-way%20merge.md)
+- [In-place Reversal of Linked List](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2006:%20In-place%20Reversal%20of%20a%20LinkedList.md)
 - [DFS Pattern](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2008%3ATree%20Depth%20First%20Search.md)
 - [BFS Pattern](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%20Pattern%2007%3A%20Tree%20Breadth%20First%20Search.md) 
 - [Topological Sort](https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688)
+
 
 ## Famous Problem Sets
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
