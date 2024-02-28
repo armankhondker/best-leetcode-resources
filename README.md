@@ -63,7 +63,7 @@ This repository contains the best free LeetCode resources for interview prep.
 ## LeetCode Extensions
 - [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en)
 - [LeetCode Enhancer](https://github.com/loveshdongre/leetcode-enhancer/)
-- [LeetHub](https://github.com/QasimWani/LeetHub)
+- [LeetHub GitHub Sync](https://github.com/QasimWani/LeetHub)
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode) 
 
 
