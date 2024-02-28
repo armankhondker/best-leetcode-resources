@@ -1,4 +1,4 @@
-# Best Coding Interview Resources
+# Best LeetCode Resources
 This repository contains the best free LeetCode resources for interview prep. 
 
 ## Fundamental Concepts 
