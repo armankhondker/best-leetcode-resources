@@ -39,7 +39,6 @@ This repository contains the best free LeetCode resources for interview prep.
 - [O-1 Knapsack](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20Pattern%2015%3A%200-1%20Knapsack%20(Dynamic%20Programming).md)
 - [Topological Sort](https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688)
 
-
 ## Famous Problem Sets
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Neetcode 150](https://neetcode.io/practice)
@@ -60,6 +59,13 @@ This repository contains the best free LeetCode resources for interview prep.
 - [Pramp](https://www.pramp.com/#/)
 - [Interviewing.io](https://interviewing.io/)
 - [Meetapro](https://www.meetapro.com/)
+
+## LeetCode Extensions
+- [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en)
+- [LeetCode Enhancer](https://github.com/loveshdongre/leetcode-enhancer/)
+- [LeetHub](https://github.com/QasimWani/LeetHub)
+- [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode) 
+
 
 ### [Resume Template](https://www.overleaf.com/read/gzgzrpszyzyg)
 
