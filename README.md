@@ -1,7 +1,7 @@
 # Best LeetCode Resources
 This repository contains the best resources for Coding Interview prep. 
 
-## Data Structure Fundamentals 
+## Data Structures & Algorithms Fundamentals 
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Linked List](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/Become-Master-In-Recursion)
