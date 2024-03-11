@@ -1,5 +1,5 @@
 # Best LeetCode Resources
-This repository contains the best resources for coding interview prep. 
+This repository contains the best resources for Coding Interview prep. 
 
 ## Data Structure Fundamentals 
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
