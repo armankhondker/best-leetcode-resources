@@ -17,7 +17,9 @@
 // Output: 5
 
 
-USE A STACK 
+USE A STACK and keep track of sign
+TC: O(N) where N is length of string
+SC: O(N) where N is length of string
 
 public class Solution {
 public int calculate(String s) {
@@ -49,9 +51,41 @@ public int calculate(String s) {
     }
 
     int re = 0;
-    for(int i:stack){
-        re += i;
+    while(!stack.isEmpty()){
+        re += s.pop();
     }
     return re;
 }
+}
+
+OPTIMIZED without the stack, use a "LAST NUMBER" to represent the stack
+TC: O(N)
+SC: O(1)
+class Solution {
+    public int calculate(String s) {
+        if (s == null || s.isEmpty()) return 0;
+        int length = s.length();
+        int currentNumber = 0, lastNumber = 0, result = 0;
+        char operation = '+';
+        for (int i = 0; i < length; i++) {
+            char currentChar = s.charAt(i);
+            if (Character.isDigit(currentChar)) {
+                currentNumber = (currentNumber * 10) + (currentChar - '0');
+            }
+            if (!Character.isDigit(currentChar) && !Character.isWhitespace(currentChar) || i == length - 1) {
+                if (operation == '+' || operation == '-') {
+                    result += lastNumber;
+                    lastNumber = (operation == '+') ? currentNumber : -currentNumber;
+                } else if (operation == '*') {
+                    lastNumber = lastNumber * currentNumber;
+                } else if (operation == '/') {
+                    lastNumber = lastNumber / currentNumber;
+                }
+                operation = currentChar;
+                currentNumber = 0;
+            }
+        }
+        result += lastNumber;
+        return result;
+    }
 }
