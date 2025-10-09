@@ -64,6 +64,7 @@ This repository contains the best resources for coding interview prep and master
 - [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm?hl=en)
 - [LeetCode GitHub Submission Sync](https://github.com/QasimWani/LeetHub)
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode) 
+- [LeetCode Py](https://github.com/wislertt/leetcode-py)
 
 
 ### [Resume Template](https://www.overleaf.com/read/gzgzrpszyzyg)
