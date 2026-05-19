@@ -44,6 +44,7 @@ This repository contains the best resources for coding interview prep and master
 - [Neetcode 150](https://neetcode.io/practice)
 - [Sean Prashad's Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) 
 - [Leetcode Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
+- [LeakCode](https://leakcode.dev/) - 60K+ real interview questions from 2K+ companies, aggregated from LeetCode Discuss, Glassdoor, 1Point3Acres, and Reddit.
 
 ## Books
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
